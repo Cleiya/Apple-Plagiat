@@ -46,5 +46,11 @@ section
 }
 
 a {
+    text-decoration: none;
     color: #2997FF;
+}
+
+a:hover{
+    color: #2997FF;
+    text-decoration: underline;
 }
