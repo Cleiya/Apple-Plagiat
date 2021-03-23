@@ -78,3 +78,8 @@ img
     text-align: center;
     color: black;
 }
+
+#icone-apple
+{
+    background-image: url("/apple-plagiat/assets/img/apple.svg");
+}
