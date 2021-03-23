@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "SF Pro";
+    src: url("/apple-plagiat/assets/css/FontsFree-Net-SFProDisplay-Regular.ttf") format("ttf");
+   }
 nav
 {
     width:100%;
@@ -15,8 +19,12 @@ nav ul
 
 body{
     text-align: center;
+<<<<<<< HEAD
     margin: 0px;
 	padding: 0px;
+=======
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+>>>>>>> 725bfb6cd0517f351444bb7b05623e4b4daac124
 }
 
 
