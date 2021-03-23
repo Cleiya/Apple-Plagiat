@@ -1,3 +1,3 @@
 Projet Apple-Plagiat
 
-Laurent
+Auteur: Laurent
