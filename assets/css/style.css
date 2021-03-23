@@ -10,12 +10,14 @@ nav
 	align-items: center;
 	justify-content: space-around;
 	position: fixed;
+    background-color: #333333;
+    color: white;
 }
 
 nav ul
 {
     list-style: none;
-	display: flex;    
+	display: flex;   
 }
 
 body{
