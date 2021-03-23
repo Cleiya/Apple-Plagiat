@@ -33,8 +33,13 @@ img{
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  .container {
+.container {
     position: relative;
     text-align: center;
     color: white;
-  }
+}
+.container2{
+    position: relative;
+    text-align: center;
+    color: black;
+}
