@@ -1,3 +1,3 @@
 Projet Apple-Plagiat
 
-Auteur: Laurent
+Auteur: Alizée, Godefroy, Laurent
