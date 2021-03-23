@@ -7,10 +7,10 @@ nav
 	position: fixed;
 }
 
-ul
+nav ul
 {
     list-style: none;
-    
+	display: flex;    
 }
 
 body{
